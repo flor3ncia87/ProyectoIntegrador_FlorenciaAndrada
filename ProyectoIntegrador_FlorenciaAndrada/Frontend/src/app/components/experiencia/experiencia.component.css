@@ -1,0 +1,50 @@
+.row {
+  padding: 20px;
+}
+div {
+  background-image: url(../../../assets/fondodepagina2.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 40px;
+}
+#Manasia {
+  width: 300px;
+  box-shadow: 10px 10px 10px #000;
+}
+.titulo {
+  font-size: 40px;
+  margin-bottom: 60px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.subtitulo1 {
+  margin-top: 100px;
+  margin-left: 305px;
+  margin-top: -270px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.texto1 {
+  margin-top: 100px;
+  margin-left: 305px;
+  margin-top: -0px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+#BuenosS {
+  width: 275px;
+  height: 285px;
+  margin-top: -100px;
+  margin-bottom: 500px;
+  box-shadow: 10px 10px 10px #000;
+}
+.subtitulo2 {
+  margin-top: 100px;
+  margin-left: 305px;
+  margin-top: -0px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.texto2 {
+  margin-top: 100px;
+  margin-left: 305px;
+  margin-top: -650px;
+  font-family: "Roboto Condensed", sans-serif;
+}

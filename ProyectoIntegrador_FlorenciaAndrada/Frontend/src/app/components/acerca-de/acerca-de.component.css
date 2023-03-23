@@ -1,0 +1,59 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.row {
+  padding: 0 15px;
+  margin: 0 -15px;
+}
+
+@media (min-width: 576px) {
+  #fotodeperfil {
+    position: absolute;
+    width: 15%;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px grey;
+    left: 3%;
+    top: 550px;
+  }
+  div {
+    background-image: url(../../../assets/fondodepagina2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+  }
+}
+@media (max-width: 575px) {
+  #fotodeperfil {
+    position: absolute;
+    width: 30%;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px grey;
+    left: 50%;
+    top: 950px;
+  }
+}
+#nombre {
+  font-family: "Roboto Condensed", sans-serif;
+  margin-top: 100px;
+  margin-left: -245px;
+}
+#profesion {
+  margin-top: 100px;
+  margin-left: -205px;
+  margin-top: 10px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+#informacionp {
+  margin-top: 100px;
+  margin-left: -190px;
+  margin-top: 10px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+#titulo {
+  margin-top: 100px;
+  margin-left: -190px;
+  margin-top: 10px;
+  font-family: "Roboto Condensed", sans-serif;
+}

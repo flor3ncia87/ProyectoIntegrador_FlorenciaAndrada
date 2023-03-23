@@ -1,0 +1,72 @@
+.row {
+  padding: 20px;
+}
+div {
+  background-image: url(../../../assets/fondodepagina2.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 40px;
+}
+.Teducacion {
+  font-size: 40px;
+  margin-bottom: 150px;
+  margin-top: 200px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+#primaria1 {
+  width: 298px;
+  height: 285px;
+
+  margin-top: -100px;
+  box-shadow: 10px 10px 10px #000;
+}
+
+#primaria2 {
+  width: 298px;
+  height: 285px;
+  margin-top: -200px;
+  box-shadow: 10px 10px 10px #000;
+}
+.texto {
+  margin-top: 100px;
+  margin-left: 310px;
+  margin-top: -280px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.infodescuela1 {
+  margin-left: 310px;
+  margin-bottom: 350px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.infodescuela2 {
+  margin-left: 310px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.titulosecu {
+  margin-bottom: 20px;
+  margin-left: 310px;
+  margin-bottom: 145px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+#secundaria {
+  width: 278px;
+  height: 270px;
+  margin-top: -200px;
+  margin-bottom: 50px;
+  box-shadow: 10px 10px 10px #000;
+}
+.infosecu {
+  margin-left: 310px;
+  margin-bottom: 350px;
+  margin-top: -250px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.cur {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.tcur {
+  font-family: "Roboto Condensed", sans-serif;
+  margin-bottom: 50px;
+}
